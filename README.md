@@ -1,0 +1,1 @@
+The program reads real estate data off a cached version of Century21's website (http://www.pyclass.com/real-estate/rock-springs-wy/LCWYROCKSPRINGS/). Details such as address, price, number of rooms etc. are extracted using the BeautifulSoup package. This is then manipulated using the pandas package and stored in a CSV file.
